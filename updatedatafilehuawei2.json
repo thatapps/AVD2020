@@ -1,11 +1,13 @@
 {
-  "latestVersion": "1.0.3",
-  "latestVersionCode": "4",
-  "url": "https://github.com/thatapps/AVD2020/releases/download/AVD1.0.3/AllVideoDownloader.apk",
+  "latestVersion": "1.0.4",
+  "latestVersionCode": "5",
+  "url": "https://github.com/thatapps/AVD2020/releases/download/AVD1.0.4/AllVideoDownloader.apk",
   "releaseNotes": [
-    "- Version 1.0.3 Important Update",
+    "- Version 1.0.4 Important Update",
     "- Video Loading Bug Fixed",
-    "- Comment Issue Fixed",
-    "- Bugs Fixed"
+    "- Facebook and Instagram Downloading Improved",
+    "- Improved WhatsApp Status And Instagram Story Loading",
+    "- Share App Using Share Option In Menu",
+    "- Thanks"
   ]
 }
