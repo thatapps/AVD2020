@@ -4,7 +4,7 @@
 	"app_open":        			"ca-app-pub-3940256099942544/3419835294",
     "banner_ad_unit_id":  		"ca-app-pub-3940256099942544/6300978111",
 	"interstitial_full_screen": "ca-app-pub-3940256099942544/1033173712",	
-	"AdShow":         			"no",
+	"AdShow":         			"yes",
 	"apiCall":         			"yes",
 	"common_1":        			"All Saver/",
 	"common_path":         		"/Download/All Saver/"
